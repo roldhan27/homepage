@@ -1,0 +1,10 @@
+body {
+	background: #4aa3df;
+}
+button {
+	transition : 0.5s;
+}
+.navbar-default, .dropdown-menu{background: #2980b9;border: 0px;box-shadow: 0;}
+.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:focus,.navbar-default .navbar-nav>.active>a:hover{color:#222;font-weight:bolder;}
+.navbar-default .navbar-nav>li>a,.navbar-default .navbar-nav>li>a:hover{color:#eee;font-weight:bolder;}
+.dropdown-menu > li > a {color: #eee}
